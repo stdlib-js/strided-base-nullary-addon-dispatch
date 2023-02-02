@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/strided-base-nullary-addon-dispatch",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Dispatch to a native add-on applying a nullary function.",
   "license": "Apache-2.0",
   "author": {
