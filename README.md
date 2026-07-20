@@ -138,8 +138,6 @@ where
 
 Returns a function which dispatches to a native add-on applying a nullary function using alternative indexing semantics.
 
-<!-- eslint-disable max-len -->
-
 ```javascript
 function addon( N, dtypeX, x, strideX ) {
     // Call into native add-on...
@@ -220,8 +218,6 @@ where
 <section class="examples">
 
 ## Examples
-
-<!-- eslint-disable max-len -->
 
 <!-- eslint no-undef: "error" -->
 
